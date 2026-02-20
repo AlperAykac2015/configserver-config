@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs - New  github folder"
+  message: "Welcome to EazyBank accounts related production APIs - New  github folder"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}2b255340f9fcfb310ad437a16eeb85c708082a102d44a4f4e874fa1e54a5d3555b0f49d0507cad92a8d7b52a53d34b96"
