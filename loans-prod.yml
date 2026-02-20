@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 loans:
-  message: "Welcome to EazyBank loans related production APIs V2 !!"
+  message: "Welcome to EazyBank loans related prod APIs V2 !!"
   contactDetails:
     name: "Alper Aykac - Product Owner"
     email: "pelias@eazybank.com"
